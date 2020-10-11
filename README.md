@@ -9,6 +9,7 @@
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2592.PNG" width="33%" height="33%">
 
 ## 启动页广告
+![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_ztJJnq.GIF)
 
 ## 视频模块
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_4XY2HJ.GIF)
