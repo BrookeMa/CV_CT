@@ -15,7 +15,7 @@
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_ztJJnq.GIF)
 
 ### 插屏广告
-
+#### 近期没有投放无法展示，与普通的插屏广告无异，多了一些页面和容错判断
 
 ## 视频模块
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_4XY2HJ.GIF)
