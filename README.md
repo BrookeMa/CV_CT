@@ -18,7 +18,7 @@
 #### 近期没有投放无法展示，与普通的插屏广告无异，多了一些页面和容错判断
 
 ## 视频模块
-### 视频模块开发总耗时四个月，包含两套基本样式，一套通用自定义样式。兼容两套图集，嵌入页面，封装成CRN支持网页调用等八种情况。由于约束消耗CPU运算，用的扩展Frame方式实现过渡动画，旋转监听，GIF中的图标为矢量图。接口设计以及各团队的特殊需求。酒店，玩乐，租车，门票等接入完成，并未完成全部公司推广。
+#### 视频模块开发总耗时四个月，包含两套基本样式，一套通用自定义样式。兼容两套图集，嵌入页面，封装成CRN支持网页调用等八种情况。由于约束消耗CPU运算，用扩展Frame方式实现过渡动画，旋转监听，GIF中的图标为矢量图。接口设计以及各团队的特殊需求。酒店，玩乐，租车，门票等接入完成，并未完成全部公司推广。
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_4XY2HJ.GIF)
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_lYDmf6.GIF)
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_NvRJzn.GIF)
