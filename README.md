@@ -21,11 +21,12 @@
 #### 视频模块开发总耗时四个月，包含两套基本样式，一套通用自定义样式。兼容两套图集，嵌入页面，支持Cell播放，封装成CRN支持网页调用。由于约束消耗CPU运算，用扩展Frame方式实现过渡动画。支持手势，旋转监听，按钮自定义和自定义区域。GIF中的图标为矢量图。接口设计以及各团队的特殊需求。酒店，玩乐，租车，门票等接入完成，由于产品组变动并未完成公司内全部推广。
 ### 图集展示
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_4XY2HJ.GIF)
-![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_lYDmf6.GIF)
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_wDdjFp.GIF)
 
 ### 嵌入式模块
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_NvRJzn.GIF)
+![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_lYDmf6.GIF)
+
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_6FUFSZ.GIF)
 
 
