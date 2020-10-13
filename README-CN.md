@@ -15,7 +15,7 @@
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_ztJJnq.GIF)
 
 ### Interstitial
-#### As with ordinary screen ads, having some display pages judgmental 
+#### As like ordinary screen ads, having some display pages judgmental 
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2641.PNG" width="33%" height="33%">
 
 ## Video Player Module
