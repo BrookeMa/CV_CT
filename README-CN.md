@@ -15,7 +15,8 @@
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_ztJJnq.GIF)
 
 ### Interstitial
-#### Due to the recent no screen advertising, unable to display
+#### As with ordinary screen ads, having some display pages judgmental 
+<img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2641.PNG" width="33%" height="33%">
 
 ## Video Player Module
 #### Video module development always took four months, including two sets of basic styles, a set of base custom styles compatible with two sets of galleries, embedded page, support play on the cell, encapsulated into CRN pages. Due to constraints consume CPU will lead to lost frames, so computing Frame extensions to realize transition animations. Gesture support, monitoring, rotating button icon of custom and the vector graphics interface design and the special requirements of each business units
