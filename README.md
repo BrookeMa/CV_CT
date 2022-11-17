@@ -4,7 +4,7 @@
 ## Advertising Module
 #### Advertisement is a very low coupling module, which is planned to be packaged into SDK. Other apps of trip, includes Zhixing, Tujia and other apps, which require high stability and compatibility, and have an independent background support
 ### Banner
-#### Functions: including the customization of image and text, iPhone type adaptation, the customization of pageControl, embedded data monitoring, more than ten business units have been using it
+#### Functions: including the customization of image and text, iPhone type adaptation, the customization of pageControl, embedded data monitoring, more than ten teams have been using it
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2579.PNG" width="33%" height="33%">
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2578.PNG" width="33%" height="33%">
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2581.PNG" width="33%" height="33%">
