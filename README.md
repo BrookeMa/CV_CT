@@ -1,8 +1,11 @@
 # CV_CT
 
+#Overview
+
 To clarify the module I am responsible for, here are some GIF images for illustration
+
 ## Advertising Module
-Advertisement is a very low coupling module, which is planned to be packaged into SDK. Other apps of trip, includes Zhixing, Tujia and other apps, which require high stability and compatibility, and have an independent background support
+Advertisement is a loosely coupled module, which is packaged into SDK to deliver other teams, includes Trip, Zhixing, Tujia and other apps. We have a unique backend service support it.
 ### Banner Ads
 Functions: including the customization of image and text, iPhone type adaptation, the customization of pageControl, embedded data monitoring, more than ten teams have been using it
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2579.PNG" width="33%" height="33%">
