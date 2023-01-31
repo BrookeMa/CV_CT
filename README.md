@@ -2,7 +2,7 @@
 
 To clarify the module I am responsible for, here are some GIF images for illustration
 
-## Advertising Module
+## Advertising Component
 Advertisement is a loosely coupled module, which is packaged into SDK to deliver other teams, includes Trip, Zhixing, Tujia and other apps. We have a unique backend service support it.
 ### Banner Ads
 Functions: including the customization of image and text, iPhone type adaptation, the customization of pageControl, embedded data monitoring, more than ten teams have been using it
@@ -20,7 +20,7 @@ As like ordinary screen ads, having some display pages judgmental
 
 <img src="https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMG_2641.PNG" width="33%" height="33%">
 
-## Video Player Module
+## Video Player Component
 Video module development took four months, including two sets of styles, a set of custom styles compatible with two sets of galleries, embedded page, support play on the cell, package into Ctrip React Native pages. Due to constraints consume CPU will lead to lost frames, so computing Frame extensions to realize transition animations. Gesture support, monitoring, rotating button icon of custom and the vector graphics interface design and the special requirements of each business units
 ### Video Player of Gallery
 ![image](https://github.com/BrookeMa/CV_CT/blob/main/GIF/IMB_wDdjFp.GIF)
