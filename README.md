@@ -1,7 +1,5 @@
 # CV_CT
 
-#Overview
-
 To clarify the module I am responsible for, here are some GIF images for illustration
 
 ## Advertising Module
